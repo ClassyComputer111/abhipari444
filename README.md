@@ -7,6 +7,8 @@
 - 🔸 I have used more than 4 editors to code.
 - 🌈 CodePen, Code.org, Visual Studio, Snack, Expo and p5.js Web Editor are some of them.
  ### I am on Youtube with a coding channel.My first video will be uploaded very soon.
+ ### I just started making projects on CODEPEN as well. You can follow me there as well
+
  
  ![JavaScript](https://user-images.githubusercontent.com/75117366/126998599-a963f69d-91b6-430c-8899-ece498f33a63.png)
  ![HTML5](https://user-images.githubusercontent.com/75117366/126998777-66be56f6-2509-4f6e-ae5d-a67394f5e994.png)
